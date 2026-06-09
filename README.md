@@ -38,3 +38,6 @@ I believe it will be easier to understand how to proceed there.
 ![Screenshot](./img/Ankipedia.png)
 
 [LICENSE](/LICENSE)
+
+See [original repository](https://github.com/digitalinnovationone/trilha-html-modulo-3).
+
