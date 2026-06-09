@@ -32,6 +32,7 @@ I believe it will be easier to understand how to proceed there.
 # Useful Links
 
 [Download NVDA](https://www.nvaccess.org/download/)
+
 [Wikipedia](https://pt.wikipedia.org/)
 
 ![Screenshot](./img/Ankipedia.png)
